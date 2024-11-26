@@ -67,3 +67,8 @@ async function main() {
 }
 
 main();
+
+// Additional Functionality Possibility
+
+// Save Log in File
+// Integrate Different API Eg. Weather / Stocks etc..

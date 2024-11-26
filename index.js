@@ -53,6 +53,7 @@ async function main() {
       }
 
       // CHAT BOT = GREEN && USER = YELLOW
+      //
 
       console.log(colors.green("Bot : ") + completionText);
 
